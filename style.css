@@ -25,6 +25,9 @@ main{
 }
 
 .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 60px;
     height: 60px;
     border-radius: 50%;
